@@ -1,6 +1,5 @@
 <%-- 
     Document   : view
-    Created on : Nov 10, 2013, 5:38:25 PM
     Author     : Group 3
 --%>
 <%@include file= "checkLogin.jsp"%>

@@ -1,6 +1,5 @@
 <%-- 
     Document   : monthlyReport
-    Created on : Nov 24, 2013, 11:36:38 PM
     Author     : Group 3
 --%>
 <%@include file= "checkLogin.jsp"%>

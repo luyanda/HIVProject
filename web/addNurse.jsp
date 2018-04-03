@@ -1,6 +1,5 @@
 <%-- 
     Document   : addNurse
-    Created on : Nov 10, 2013, 4:54:04 PM
     Author     : Group 3
 --%>
 <%@include file= "checkLogin.jsp"%>

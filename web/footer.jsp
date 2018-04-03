@@ -1,6 +1,5 @@
 <%-- 
     Document   : footer
-    Created on : 31 Oct 2013, 1:32:42 PM
     Author     : Group 3
 --%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

@@ -1,6 +1,5 @@
 <%-- 
     Document   : testingRegister
-    Created on : Nov 21, 2013, 9:20:55 PM
     Author     : Group 3
 --%>
 <%@include file= "checkLogin.jsp"%>

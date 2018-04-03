@@ -1,6 +1,5 @@
 <%-- 
     Document   : checkLogin
-    Created on : 08 Nov 2013, 10:21:30 AM
     Author     : Group 3
 --%>
 

@@ -1,6 +1,5 @@
 <%-- 
     Document   : logout
-    Created on : 05 Nov 2013, 3:39:17 PM
     Author     : Group 3
 --%>
 

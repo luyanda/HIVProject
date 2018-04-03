@@ -1,6 +1,5 @@
 <%-- 
     Document   : nurseHome
-    Created on : Nov 23, 2013, 2:50:44 PM
     Author     : Group 3
 --%>
 <%@include file= "checkLogin.jsp"%>

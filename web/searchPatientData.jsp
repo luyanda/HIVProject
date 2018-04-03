@@ -1,6 +1,5 @@
 <%-- 
     Document   : searchPatientData
-    Created on : Nov 24, 2013, 10:06:23 PM
     Author     : Group 3
 --%>
 <%@include file= "checkLogin.jsp"%>

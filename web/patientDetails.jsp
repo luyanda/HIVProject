@@ -1,6 +1,5 @@
 <%-- 
     Document   : patient_page
-    Created on : Nov 8, 2013, 1:08:00 AM
     Author     : Group 3
 --%>
 <%@include file= "checkLogin.jsp"%>

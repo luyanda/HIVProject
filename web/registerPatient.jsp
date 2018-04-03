@@ -1,6 +1,5 @@
 <%-- 
     Document   : registerPatient
-    Created on : Nov 10, 2013, 1:30:24 PM
     Author     : Group 3
 --%>
 <%@page import="java.util.ArrayList"%>

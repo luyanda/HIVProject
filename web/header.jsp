@@ -1,6 +1,5 @@
 <%-- 
     Document   : header
-    Created on : 31 Oct 2013, 1:31:32 PM
     Author     : Group 3
 --%>
 

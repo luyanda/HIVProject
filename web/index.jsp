@@ -1,7 +1,6 @@
 <%-- 
     Document   : index
-    Created on : 30 Oct 2013, 7:44:23 PM
-    Author     : Group 3
+    sAuthor     : Group 3
 --%>
 
 <%@page import="java.util.ArrayList"%>

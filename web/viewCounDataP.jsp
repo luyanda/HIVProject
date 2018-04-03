@@ -1,6 +1,5 @@
 <%-- 
     Document   : viewCounData
-    Created on : Nov 24, 2013, 2:51:28 AM
     Author     : 210041625
 --%>
 <%@include file= "checkLogin.jsp"%>
