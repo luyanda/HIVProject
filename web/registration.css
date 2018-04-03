@@ -1,0 +1,39 @@
+/* 
+    Document   : registration
+    Created on : Nov 8, 2013, 2:07:42 AM
+    Author     : 210041625
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+body {
+	margin: 0;
+	padding: 0;
+	line-height: 1.5em;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #ffffff;
+	background: #2a2a2a;
+}
+
+#regform_content {
+        float: right;
+        height: 100px;
+	background: url(images/right_section_bg.jpg) no-repeat;
+	padding: 30px 0 0 30px;
+        width: 500px;
+        background-color: #2a2a2a;
+}
+
+#regform_move{
+    float: left;
+    width: 450px;
+    color: #b5ff5e;
+    margin-left: 35px;
+    background: url(images/right_section_bg.jpg) no-repeat;
+    text-align: center;
+}
+
+h2{
+    color: #b5ff5e;
+}

@@ -1,0 +1,20 @@
+SMAP
+registerPatient_jsp.java
+JSP
+*S JSP
+*F
++ 0 registerPatient.jsp
+registerPatient.jsp
++ 1 header.jsp
+header.jsp
+*L
+5,13:50
+5#1,18:63
+17#0,3:80
+20,5:84
+24:89
+25:90,3
+26:93
+26,3:94
+28,96:97
+*E

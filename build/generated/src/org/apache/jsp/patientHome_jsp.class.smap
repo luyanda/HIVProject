@@ -1,0 +1,35 @@
+SMAP
+patientHome_jsp.java
+JSP
+*S JSP
+*F
++ 0 patientHome.jsp
+patientHome.jsp
++ 1 checkLogin.jsp
+checkLogin.jsp
++ 2 header.jsp
+header.jsp
++ 3 footer.jsp
+footer.jsp
+*L
+1,2:53
+5#1,4:55
+10,4:60
+13:64
+14:65,5
+15:70,2
+16:72
+3#0,13:73
+5#2,18:86
+15#0,2:103
+17,3:105,3
+20,3:114
+22,4:117
+25:121
+26:122,3
+27:125
+27,3:126
+29,78:129
+5#3,12:207
+106#0,5:218
+*E

@@ -1,0 +1,256 @@
+/* 
+    Document   : styles
+    Created on : 30 Oct 2013, 7:55:37 PM
+    Author     : 211064025
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+
+body {
+	margin: 0;
+	padding: 0;
+	line-height: 1.5em;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #ffffff;
+	background: #2a2a2a;
+}
+
+#page_top_panel{
+	width: 100%;
+	height: 295px;	
+	margin-bottom: 30px;
+	/*background: url(page_top_section_bg.jpg) top repeat-x;*/
+}
+
+#page_top_panel #page_top_section{
+	width: 1150px; 
+	height: 250px; 
+	margin: 0 auto;
+	padding-top: 100px;
+	padding-right: 30px;
+	background:  url(images/my_header.jpg) no-repeat;
+}
+
+#page_top_section #site_title {
+	text-align: right;
+	font-size: 40px;
+	font-weight: bold;
+	padding: 10px 0;
+        text-shadow: 3px 4px #ff0000;
+}
+#page_top_section #site_tagline {
+	text-align: right;
+	font-size: 16px;
+	font-weight: bold;
+	padding: 5px 0;
+	color: #dcff86;
+        text-shadow: 1px 1px #ff0000;
+}
+#page_content_panel{
+	clear: both;
+	width:100%;;
+}
+
+#page_content_panel #page_content_section{
+	clear: both;
+	overflow: hidden;
+	height: 100%;
+	width: 960px;
+	padding: 0;
+	margin: 0 auto;
+}
+
+#page_content_section #page_content_left {
+	float: left;
+	display: inline;
+	width: 240px;
+	margin-left: 90px;
+}
+
+#page_content_section #page_content_right {
+	float: right;
+	width: 550px;
+	margin-right: 30px;
+}
+
+#page_content_section #content_right {
+	float: right;
+	width: 300px;
+	margin-right: 30px;
+}
+#page_content_section #content_left {
+	float: left;
+	display: inline;
+	width: 500px;
+	margin-left: 90px;
+}
+
+* html #page_content_section #page_content_right {
+	margin-right: 10px;
+}
+#page_content_left #login_section {
+	clear: both;
+	margin-bottom: 20px;
+}
+
+/*#login_section #login_section_top {
+	width: 240px;
+	height: 10px;
+	/*background: url(page_login_section_top.jpg) no-repeat;
+}
+
+* html #login_section #login_section_top {
+	margin-bottom: -5px;
+}
+
+#login_section #login_section_title {
+	font-size: 18px;
+	font-weight: bold;
+	padding: 10px 0 0 70px;
+	height: 30px; 
+	background: url(Login.png) top center no-repeat;
+}*/
+
+#login_section #login_section_middle {
+	background-color: grey;
+	padding: 10px 15px;
+        border-radius:25px;
+}
+
+#login_section_middle form{
+	margin: 0 0 15px 0;
+	padding: 0 0 15px 0;
+	width: 100%;
+	text-align: right;
+	border-bottom: 1px dotted #ffffff;
+}
+
+
+#login_section_middle .form_row{
+	margin-bottom: 10px;
+}
+
+
+#login_section_middle label {
+	margin-right: 10px;
+}
+
+#login_section_middle input{
+	width: 120px;
+	height: 18px;
+}
+
+#login_section_middle .button{
+	width: 60px;
+	height: 25px;
+}
+
+/*#login_section #login_section_bottom {
+	width: 240px;
+	height: 10px;
+	/*background: url(page_login_section_bottom.jpg) no-repeat;
+}*/
+
+#page_content_left #page_column_section {
+	clear: both;
+	background-color: #353535;
+}
+/*
+#left_column_section #left_column_section_top {
+	width: 240px;
+	height: 10px;
+
+}*/
+
+* html #left_column_section #left_column_section_top {
+	margin-bottom: -5px;
+}
+
+#left_column_section #left_column_section_title {
+	font-size: 18px;
+	font-weight: bold;
+	padding: 7px 0 0 70px;
+	height: 33px; /* padding top 7px + */
+	/*background: url(images/templatemo_left_column_section_title.jpg) top center no-repeat;*/
+}
+
+#left_column_section #left_column_section_middle {
+
+	padding: 0 15px 10px 15px;
+	/*background: url(page_left_column_section_bottom.jpg) center bottom no-repeat;*/
+}
+
+#left_column_section_middle .post {
+	clear: both;
+	margin-bottom: 15px;
+	padding-bottom: 10px;
+	border-bottom: 1px dotted #525252;
+}
+
+#left_column_section_middle .post h1 {
+	margin: 10px 0 5px 0;
+	padding: 0px;
+	font-size: 12px;
+	color: #f6ff00;
+}
+
+.post p{
+	margin: 0 0 0 10px;
+	padding: 0px;
+}
+#page_content_right .right_column_section {
+	background-color: #2a2a2a;
+        
+	
+}
+
+.right_column_section .right_column_section_title {
+	height: 50px;
+	background: url(images/right_section_bg.jpg) no-repeat;
+	color: #b5ff5e;
+	font-size: 24px;
+	font-weight: bold;
+	padding: 30px 0 0 30px;
+}
+
+.right_column_section .right_column_section_body {
+	clear: both;
+	padding: 0 30px 0 30px;	
+}
+
+.right_column_section_body  .image_box {
+	float: left;
+	width: 108px;	
+}
+
+.right_column_section_body  .post_body {
+	width: 360px;
+	float: right;
+}
+
+.right_column_section_body p{
+	padding: 0 0 10px 0;
+	margin: 0px;
+}
+
+.post_body  .posted_by {
+	color: #ffc600;
+	font-size: 14px;
+	font-weight: normal;
+	margin: 0 0 15px 0;
+	padding: 0px;
+}
+
+
+
+
+.left_registration {
+	height: 50px;
+	background: url(images/right_section_bg.jpg) no-repeat;
+	color: #b5ff5e;
+	font-size: 24px;
+	font-weight: bold;
+	padding: 30px 0 0 30px;
+}
